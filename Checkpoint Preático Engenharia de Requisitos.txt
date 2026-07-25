@@ -1,4 +1,7 @@
- Checkpoint Preático #2 Engenharia de Requisitos
+Professor: jhordanno
+data: 24/07/2026
+
+Checkpoint Preático #2 Engenharia de Requisitos
 
 
 1. Latência (QoS) para Voz (VoIP) e Vídeo
