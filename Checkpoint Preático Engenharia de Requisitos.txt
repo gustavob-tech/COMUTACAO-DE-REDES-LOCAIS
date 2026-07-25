@@ -1,0 +1,22 @@
+ Checkpoint Preático #2 Engenharia de Requisitos
+
+
+1. Latência (QoS) para Voz (VoIP) e Vídeo
+Pergunta: Qual é a latência máxima (atraso unidirecional aceitável, em milissegundos) ditada pela indústria para o tráfego de Voz (VoIP) e Vídeo em tempo real para que não haja degradação perceptível da chamada?
+
+Resposta padrão de mercado (ITU-T G.114 / Cisco): 150 ms
+
+Explicação: A norma ITU-T G.114 recomenda um atraso máximo unidirecional (one-way delay) de 150 ms para comunicações de voz e vídeo interativas em tempo real. Acima desse limite, a conversa perde a naturalidade e os interlocutores começam a falar um por cima do outro.
+
+2. Energia (PoE): Padrões de Potência Máxima por Porta
+Pergunta: Qual é a diferença na potência máxima fornecida por porta (em Watts) entre o padrão clássico PoE (IEEE 802.3af) e o padrão PoE+ (IEEE 802.3at)?
+
+IEEE PoE padrão (IEEE 802.3af): 15.4 Watts (fornecido pela porta/PSE)
+
+PoE+ padrão (IEEE 802.3at): 30 Watts (fornecido pela porta/PSE)
+
+Explicação:
+
+O padrão 802.3af (PoE Tipo 1) entrega até 15,4 W na porta do switch (chegando cerca de 12,95 W no dispositivo final após perdas no cabo).
+
+O padrão 802.3at (PoE+ Tipo 2) entrega até 30 W na porta do switch (chegando cerca de 25,5 W no dispositivo final).
