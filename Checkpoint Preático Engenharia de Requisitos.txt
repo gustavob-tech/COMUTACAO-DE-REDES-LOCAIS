@@ -23,6 +23,3 @@ Explicação:
 O padrão 802.3af (PoE Tipo 1) entrega até 15,4 W na porta do switch (chegando cerca de 12,95 W no dispositivo final após perdas no cabo).
 
 O padrão 802.3at (PoE+ Tipo 2) entrega até 30 W na porta do switch (chegando cerca de 25,5 W no dispositivo final).
-
-
-aaaaaa
